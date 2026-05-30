@@ -3,18 +3,17 @@ I am Currently Working on improving Codeforces Rating and Leetcode solving<br>Co
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayanbasu2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-basu-310a4a376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayanbasu2006@gmail.com) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Uncle_Jack07)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/sayanbasu2006/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/yuvraj_._._thakur/]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yuv-raj-singh-thakur-58a818251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajai1234@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/codeityuv_raj1/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanbasu2006&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanbasu2006&layout=compact&theme=radical" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=sayanbasu2006&theme=radical" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanbasu2006&theme=radical&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanbasu2006&theme=github-dark&area=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajai1234-work&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajai1234-work&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajai1234-work&theme=radical" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajai1234-work&theme=radical&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajai1234-work&theme=github-dark&area=true" height="300" alt="activity graph" />
 </div>
 
 ### ✍️ Random Dev Quote
