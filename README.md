@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am Currently Working on improving Codeforces Rating and Leetcode solving<br>Collaborate on Backend projects<br>
+I’m a B.Tech student specializing in Artificial Intelligence, with a strong interest in exploring how technology can solve real-world problems. I have experience in Full Stack Development, Java, and Python, and I’m also building my skills in AI, Machine Learning, and Deep Learning.
+
+I enjoy learning new technologies, working on projects that challenge me, and improving my understanding of Data Structures and Algorithms to write better, faster code.
+
+I’m always open to connecting with people in tech, collaborating on projects, and exploring opportunities to grow in the field of AI and software development<br>
 
 
 ## 🌐 Socials:
